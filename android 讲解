@@ -1,3 +1,27 @@
   这是一个Android 的库包
 
   备注： 如何制作 andorid的 库包 :http://blog.csdn.net/qfanmingyiq/article/details/53389361
+
+  默认的方法  default
+  特殊的方法   special
+  自定义的方法  custom
+
+  视图  wide 宽      high  高
+
+
+
+
+
+    类别详解
+    enumutil 这是一个 枚举 的方法类  主要用于在 标志
+
+    finalutil  这是一个  今天的 类 。用于不变的 数据类型的封装
+
+    loginshareutil  用于登录 和分享的类
+
+    tool  是一些 简单的工具类
+
+
+
+
+    viewutil   是一些视图的类

@@ -2,6 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.toollib">
 
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -15,6 +16,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <meta-data
+            android:name="IFLYTEK_APPKEY"
+            android:value="'58cb9a86'"></meta-data>
+        <activity android:name=".WebviewActivity"></activity>
+        <service android:name="com.iflytek.autoupdate.IFlytekDownloadService" />
+        <activity
+            android:name="com.iflytek.autoupdate.IFlytekUpdateDialog"
+            android:theme="@style/autoupdate_dialog" />
     </application>
 
 </manifest>

@@ -6,5 +6,39 @@
     <color name="colornine">#000000</color>
     <color name="colorthree">#000000</color>
 
+    <color name="colornull">#00000000</color>
+    <color name="colorbanull">#20065e8d</color>
+    <color name="colorbanu2l">#99ffffff</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!-- 基本颜色 -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#FF0000</color>
+    <!-- 灰色 -->
+    <color name="grey3">#333333</color>
+    <color name="grey6">#666666</color>
+    <color name="grey9">#999999</color>
+    <color name="color_transparent_time">#22000000</color>
+    <!-- 主页颜色 -->
+    <color name="color_main">#CC1D1C21</color>
+    <color name="color_login_background">#1c1d21</color>
+    <color name="color_button">#0060FF</color>
+    <color name="color_wechat_login">#1AAC19</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="divider_color">#393939</color>
+    <!-- mine颜色 -->
+    <color name="grey_tab">#585759</color>
+    <!-- 发现 -->
+    <color name="color_cancel">#999B9D</color>
+
+    <color name="color_beijing">#1c1d21</color>   <!-- #252429-->
+    <color name="color_1a">#1a1a1a</color>
+    <!-- 特别的横线-->
+    <color name="showline">#666666</color>
+    <color name="color_swipeitem">#0060FF</color>
+    <color name="txthui">#8d8c8e</color>
+    <color name="a5">#a5a5a5</color>
 
 </resources>
