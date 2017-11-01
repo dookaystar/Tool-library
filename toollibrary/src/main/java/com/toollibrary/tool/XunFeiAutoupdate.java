@@ -32,7 +32,6 @@ public class XunFeiAutoupdate {
         } else {
             updManager.autoUpdate(context, new UpdateIFlyt(context));
         }
-
     }
 
     public static class UpdateIFlyt implements IFlytekUpdateListener {

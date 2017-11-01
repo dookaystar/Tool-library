@@ -6,13 +6,12 @@ import android.graphics.drawable.GradientDrawable;
  * Created by 李双 on 2017/4/26.
  */
 
-public class JianbianUtil {
+public class GradientUtil {
 
 
     /**
      * 变化的背景
-     * 传入 color id
-     *
+     * 传入 color []
      * @param colorid
      * @return mTv.setBackground(getGradientDrawable);
      */
