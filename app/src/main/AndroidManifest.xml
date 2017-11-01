@@ -19,11 +19,11 @@
         <meta-data
             android:name="IFLYTEK_APPKEY"
             android:value="'58cb9a86'"></meta-data>
-        <activity android:name=".WebviewActivity"></activity>
+<!--        <activity android:name=".WebviewActivity"></activity>
         <service android:name="com.iflytek.autoupdate.IFlytekDownloadService" />
         <activity
             android:name="com.iflytek.autoupdate.IFlytekUpdateDialog"
-            android:theme="@style/autoupdate_dialog" />
+            android:theme="@style/autoupdate_dialog" />-->
     </application>
 
 </manifest>

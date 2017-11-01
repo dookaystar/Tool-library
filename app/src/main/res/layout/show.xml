@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="@drawable/showbroud"
+        android:clickable="true"
+        android:padding="10dp"
+        android:src="@mipmap/ic_launcher"
+        tools:targetApi="honeycomb" />
+
+    <ImageView
+        android:id="@+id/imgshowview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="@mipmap/ic_launcher"
+        android:clickable="true"
+        android:gravity="center"
+        android:src="@drawable/showbroud"
+        tools:targetApi="honeycomb" />
+    <!-- android:background="?android:attr/actionBarItemBackground"-->
+
+    <!--   android:background="?android:attr/actionBarItemBackground"-->
+
+    <!-- android:background="@drawable/showbroud"-->
+    <!--  tools:targetApi="honeycomb"    ice_cream_sandwich-->
+
+</LinearLayout>
